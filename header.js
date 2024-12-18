@@ -47,7 +47,7 @@ class HeaderComponent extends HTMLElement {
                                         <li>
                                             <div class="wt-icon-box-wraper  left">
                                                 <div class="wt-icon-box-xs site-bg-primary radius">
-                                                    <span class="icon-cell site-text-white"><i class="flaticon-location"></i></span>
+                                                    <span class="icon-cell site-text-white"><i ><img src="https://cdn-icons-png.flaticon.com/512/535/535239.png"></img></i></span>
                                                 </div>
                                                 <div class="icon-content">
                                                     <p>1229 Chestnut St, Unit #316 Adelphia House</p>
@@ -106,33 +106,34 @@ class HeaderComponent extends HTMLElement {
 
                                         <ul class=" nav navbar-nav">
                                             <li class="has-child"><a href="index.html">Home</a>
-                                                
+                                               
                                             </li>
-
 
                                             <li class="has-child">
                                                 <a href="about-2.html">About</a>
-                                                
+                                             
                                             </li>
 
                                             <li class="has-child"><a href="services.html">Services</a>
-                                                
+                                              
                                             </li>
 
-                                            <li class="has-child"><a href="service-detail.html">Service Detail</a>
-                                                
+                                            <li class="has-child"><a href="service-detail.html">Service Details</a>
+                                               
+                                            </li>
+
+                                            <li class="has-child"><a href="contact.html">Vendor</a>
+                                              
+                                            </li>
+
+                                            <li class="has-child"><a href="javascript:;">Vendor Login</a>
+                                              
                                             </li>
 
 
 
-                                            <li class="has-child"><a href="contactform.html">Vendor</a>
-                                                
-                                            </li>
-                                            <li class="has-child"><a href="">Vendor Login</a>
-                                                
-                                            </li>
-                                            <li class="has-child"><a href="contactform.html">Clients</a>
-                                                
+                                            <li class="has-child"><a href="contact.html">Clients</a>
+                                               
                                             </li>
                                             
                                             <li><a href="contact.html">Contact</a></li>
